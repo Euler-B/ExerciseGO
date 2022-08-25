@@ -52,3 +52,5 @@ go.work
 
 #ignore executable archives on my worstation
 main
+factorial
+
