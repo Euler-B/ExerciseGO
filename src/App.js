@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+        Bienvenidas a una App React creada con con el gestor yarn.
         </p>
         <a
           className="App-link"
